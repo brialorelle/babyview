@@ -1,36 +1,33 @@
 ![logo.png](logo.png)
 
-## About the EPAQ
+## About the BabyView
 
-The Early Parenting Attitudes Questionnaire (EPAQ) is a short, psychometrically-valid instrument for assessing adults' beliefs about parenting and child development. The PAQ measures three subscales: **rules and respect**, **affection and attachment**, and **early learning**. Our goals in designing the EPAQ were to create a short instrument that could 1) measure population-level differences in attitudes, 2) be used as a moderator in experimental and intervention studies on caregiving behaviors, and 3) be used as an outcome variable for caregiving belief- and behavior-change interventions.
+The BabyView camera is designed collect high-resolution, at-home egocentric video data from children 9 - 30 months of age.  The camera consists a deconstructed  GoPro Hero8 camera enclosed in a lightweight 3D printed casing that is mounted onto a lightweight baby helmet. The BabyView camera was designed in collaboration with Daylight, Inc., a product-design firm in San Francisco, CA, and has undergone rigorous safety testing and prototyping.
 
-The PAQ has 24 items (8 per subscale, 12 reverse coded) and can be given online or on paper. Spanish and French translations are available, but have not been validated as extensively. It has subscale reliabilities of alpha = .69 (rules and respect), .75 (affection and attachment), and .76 (early learning), respectively. 
 
-Scale construction and validity evidence is described in [Hembacher & Frank (2020), Collabra: Psychology](https://www.collabra.org/article/10.1525/collabra.190/).
+The design process and pilot data from the BabyView camera can be found at [PSYARXIV LINK]
 
-## Materials and Translations
+## Materials 
 
-## Main versions
+All design documentation, safety testing protocols, assembly instructions, pilot data, data management protocols, and sample participant instructions can be found at [OSF LINK].
 
-[PDF version of the EPAQ](https://drive.google.com/file/d/1imxrvppP1-Efl4T0-n-JX5HWSBDxseKj)
-[Word verson of the EPAQ](https://docs.google.com/document/d/1YZcAfGQ4SA8N3B-JpUtK4lp9lq7hPAn2)
 
-[Google forms English version of the EPAQ](https://drive.google.com/open?id=12_6uMkoPapp5-AW6hpSQ8bAwx6vq-5oZOhUZH4dFgjk) - Note, please MAKE A COPY of the EPAQ form rather than trying to edit this one directly (or using it to collect your own data!).
+## Overview
 
-### Translations
-
-* [Spanish](https://drive.google.com/open?id=1yRye8nYAlwYQVPOgTYf-pqgAoH1O00zPuo5JA9_QQ-M)
-* [French](https://docs.google.com/document/d/1meKyKWf11o6JwekyOFyMe0NqNjEZEJFg) - courtesy of Rebecca Shankland and Christina Bergmann 
-* [Danish](https://drive.google.com/file/d/1D9XK6QA9EwqpbrDtG_I1lhCCGE2zTBYF) - courtesy of Christina Dideriksen, note four extra questions about child-directed speech at the end
-* [Russian](https://drive.google.com/file/d/17jA8tKuWwOlDPAbD-Kd1Q4pC3j-4Bnao/view?usp=sharing) - courtesy of Natalia Kartushina and Margarita Gavrilova
-
-We are very happy for you to translate the form, but we ask that you share it back to us for posting on this website. We also ask that you maintain the CC-BY 4.0 license as shown below.
 
 ## Contact and Acknowledgements
 
-Research and development of the EPAQ was supported by a generous gift from [Kinedu](https://www.kinedu.com/).
 
-The original repository for the paper can be found [here](https://github.com/langcog/parenting_proj) and [an OSF repository](https://osf.io/pb3a4/) archives some raw materials and preprints. 
+Contributors: 
+
+Bria Long<sup>1<sup>, Sarah Goodin<sup>2<sup>, George Kachergis<sup>1<sup>, Virginia A. Marchman<sup>1<sup>, Samaher Radwan<sup>1<sup>, 
+Violet Xiang<sup>1<sup>, Chengxu Zhuang<sup>1<sup>, Oliver Hsu<sup>2<sup>, Brett Newman<sup>2<sup>, Daniel L. K. Yamins<sup>1,3<sup>, Michael C. Frank<sup>1<sup>
+
+1 Department of Psychology, Stanford University
+2 Daylight Design
+3 Department of Computer Science, Stanford University
+
+Research and development of the BabyView was supported by a generous gift from The Schmidt Futures Foundation (https://www.schmidtfutures.com/).
 
 For more information, contact [Michael Frank](http://web.stanford.edu/~mcfrank/).
 
